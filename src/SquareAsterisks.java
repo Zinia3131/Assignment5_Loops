@@ -2,18 +2,17 @@ import java.util.Scanner;
 
 public class SquareAsterisks {
     public static void main(String[] args) {
-        // Read the side length from the user
+
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter side length: ");
         int n = scanner.nextInt();
 
-        // Loop to print the filled and hollow square side by side
         for (int i = 0; i < n; i++) {
-            // Print filled square part
+
             for (int j = 0; j < n; j++) {
                 System.out.print("*");
             }
-            System.out.print(" "); // Space between squares
+            System.out.print(" ");
 
             // Print hollow square part
             for (int j = 0; j < n; j++) {
@@ -23,7 +22,7 @@ public class SquareAsterisks {
                     System.out.print(" ");
                 }
             }
-            System.out.println(); // Move to the next line
+            System.out.println();
         }
         scanner.close();
     }
