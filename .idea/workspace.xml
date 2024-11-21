@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5f64bb-4763-49f5-aff2-ad2b593f53d3" name="Changes" comment="6.8_printing each character">
-      <change afterPath="$PROJECT_DIR$/src/ReverseWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintEachCharacter.java" afterDir="false" />
+    <list default="true" id="ed5f64bb-4763-49f5-aff2-ad2b593f53d3" name="Changes" comment="6.13_binary digit printing">
+      <change afterPath="$PROJECT_DIR$/src/SunsetEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TelescopeEffect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="6.7" />
+        <entry key="$PROJECT_DIR$" value="6.12" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,8 +45,10 @@
     "Application.ReverseWord.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOddNumbers.executor": "Run",
+    "Application.SunsetEffect.executor": "Run",
+    "Application.TelescopeEffect.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "6.8",
+    "git-widget-placeholder": "6.13",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/LoopsMore/src/Main.java"
   }
@@ -123,7 +126,55 @@
       <option name="project" value="LOCAL" />
       <updated>1732184075411</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="6.8_printing each character">
+      <option name="closed" value="true" />
+      <created>1732184334927</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732184334927</updated>
+    </task>
+    <task id="LOCAL-00010" summary="6.9_ Reversing Word">
+      <option name="closed" value="true" />
+      <created>1732184362784</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732184362784</updated>
+    </task>
+    <task id="LOCAL-00011" summary="6.10_count vowel">
+      <option name="closed" value="true" />
+      <created>1732184634860</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732184634860</updated>
+    </task>
+    <task id="LOCAL-00012" summary="6.11_substring by length by sorting in increasing order">
+      <option name="closed" value="true" />
+      <created>1732184874489</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732184874489</updated>
+    </task>
+    <task id="LOCAL-00013" summary="6.12_ power of 2 begin from 20 to 220">
+      <option name="closed" value="true" />
+      <created>1732185024940</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732185024940</updated>
+    </task>
+    <task id="LOCAL-00014" summary="6.13_binary digit printing">
+      <option name="closed" value="true" />
+      <created>1732185132110</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732185132110</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,7 +186,12 @@
     <MESSAGE value="6.6_ Finding Minimum &amp; maximum" />
     <MESSAGE value="6.7_ permutation randomly" />
     <MESSAGE value="6.8_printing each character" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.8_printing each character" />
+    <MESSAGE value="6.9_ Reversing Word" />
+    <MESSAGE value="6.10_count vowel" />
+    <MESSAGE value="6.11_substring by length by sorting in increasing order" />
+    <MESSAGE value="6.12_ power of 2 begin from 20 to 220" />
+    <MESSAGE value="6.13_binary digit printing" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.13_binary digit printing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
