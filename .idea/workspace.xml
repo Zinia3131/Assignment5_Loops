@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5f64bb-4763-49f5-aff2-ad2b593f53d3" name="Changes" comment="6.1 .basic sum,square,power &amp; odd operations.">
-      <change afterPath="$PROJECT_DIR$/src/MinMaxFinder.java" afterDir="false" />
+    <list default="true" id="ed5f64bb-4763-49f5-aff2-ad2b593f53d3" name="Changes" comment="6.8_printing each character">
+      <change afterPath="$PROJECT_DIR$/src/ReverseWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintEachCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintEachCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="6.1_d" />
+        <entry key="$PROJECT_DIR$" value="6.7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,11 +39,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdjacentDuplicates.executor": "Run",
     "Application.MinMaxFinder.executor": "Run",
+    "Application.ReverseWord.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOddNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "6.1__b",
+    "git-widget-placeholder": "6.8",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/LoopsMore/src/Main.java"
   }
@@ -64,12 +67,75 @@
       <option name="project" value="LOCAL" />
       <updated>1732180564133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="6.2 is commited">
+      <option name="closed" value="true" />
+      <created>1732181133603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732181133603</updated>
+    </task>
+    <task id="LOCAL-00003" summary="6.3 is commited with 5 class about 1st letter ,2nd letter &amp; vpwel.">
+      <option name="closed" value="true" />
+      <created>1732182713355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732182713355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="6.4_highest Temperature in every month">
+      <option name="closed" value="true" />
+      <created>1732183079895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732183079895</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6.5_Data setting program">
+      <option name="closed" value="true" />
+      <created>1732183386850</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732183386850</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6.6_ Finding Minimum &amp; maximum">
+      <option name="closed" value="true" />
+      <created>1732183754032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732183754032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6.7_ permutation randomly">
+      <option name="closed" value="true" />
+      <created>1732183927134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732183927134</updated>
+    </task>
+    <task id="LOCAL-00008" summary="6.8_printing each character">
+      <option name="closed" value="true" />
+      <created>1732184075411</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732184075411</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6.1 .basic sum,square,power &amp; odd operations." />
-    <option name="LAST_COMMIT_MESSAGE" value="6.1 .basic sum,square,power &amp; odd operations." />
+    <MESSAGE value="6.2 is commited" />
+    <MESSAGE value="6.3 is commited with 5 class about 1st letter ,2nd letter &amp; vpwel." />
+    <MESSAGE value="6.4_highest Temperature in every month" />
+    <MESSAGE value="6.5_Data setting program" />
+    <MESSAGE value="6.6_ Finding Minimum &amp; maximum" />
+    <MESSAGE value="6.7_ permutation randomly" />
+    <MESSAGE value="6.8_printing each character" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.8_printing each character" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
