@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5f64bb-4763-49f5-aff2-ad2b593f53d3" name="Changes" comment="6.13_binary digit printing">
-      <change afterPath="$PROJECT_DIR$/src/SunsetEffect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TelescopeEffect.java" afterDir="false" />
+    <list default="true" id="ed5f64bb-4763-49f5-aff2-ad2b593f53d3" name="Changes" comment="6.20_printing a x-box shape">
+      <change afterPath="$PROJECT_DIR$/src/CurrencyConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="6.12" />
+        <entry key="$PROJECT_DIR$" value="6.19" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,14 +40,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdjacentDuplicates.executor": "Run",
+    "Application.CurrencyConversion.executor": "Run",
     "Application.MinMaxFinder.executor": "Run",
     "Application.ReverseWord.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOddNumbers.executor": "Run",
     "Application.SunsetEffect.executor": "Run",
     "Application.TelescopeEffect.executor": "Run",
+    "Application.XShapeInBox.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "6.13",
+    "git-widget-placeholder": "6.20",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/LoopsMore/src/Main.java"
   }
@@ -174,7 +175,47 @@
       <option name="project" value="LOCAL" />
       <updated>1732185132110</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="6.16_multiplication table">
+      <option name="closed" value="true" />
+      <created>1732186110458</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732186110458</updated>
+    </task>
+    <task id="LOCAL-00016" summary="6.17_square Asterisk making">
+      <option name="closed" value="true" />
+      <created>1732186219427</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732186219427</updated>
+    </task>
+    <task id="LOCAL-00017" summary="6.18 diamond shape making">
+      <option name="closed" value="true" />
+      <created>1732186368776</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732186368776</updated>
+    </task>
+    <task id="LOCAL-00018" summary="6.19_printing a hollow diamond shape">
+      <option name="closed" value="true" />
+      <created>1732186520750</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732186520750</updated>
+    </task>
+    <task id="LOCAL-00019" summary="6.20_printing a x-box shape">
+      <option name="closed" value="true" />
+      <created>1732186892432</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1732186892432</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,7 +232,12 @@
     <MESSAGE value="6.11_substring by length by sorting in increasing order" />
     <MESSAGE value="6.12_ power of 2 begin from 20 to 220" />
     <MESSAGE value="6.13_binary digit printing" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.13_binary digit printing" />
+    <MESSAGE value="6.16_multiplication table" />
+    <MESSAGE value="6.17_square Asterisk making" />
+    <MESSAGE value="6.18 diamond shape making" />
+    <MESSAGE value="6.19_printing a hollow diamond shape" />
+    <MESSAGE value="6.20_printing a x-box shape" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.20_printing a x-box shape" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
